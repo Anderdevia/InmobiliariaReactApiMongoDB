@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\WebApiMongoDB.exe
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\WebApiMongoDB.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\WebApiMongoDB.deps.json
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\WebApiMongoDB.runtimeconfig.json
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\WebApiMongoDB.pdb
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\DnsClient.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\MongoDB.Bson.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\MongoDB.Driver.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\SharpCompress.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\Snappier.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\source\repos\AspCoreMVCCrud\WebApiMongoDB\WebApiMongoDB\obj\Release\net8.0\PubTmp\Out\ZstdSharp.dll

@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\entities\\propertytrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\entities\\propertytrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\entities\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\entities\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\controllers\\propertytracecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\controllers\\propertytracecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\controllers\\propertyimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\controllers\\propertyimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\data\\propertytraceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\data\\propertytraceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\data\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\data\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\data\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\data\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\webapimongodb\\data\\propertyimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6BB02-2AC2-4517-B8D5-6FCBCA7662AB}|WebApiMongoDB\\WebApiMongoDB.csproj|solutionrelative:webapimongodb\\data\\propertyimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyImage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Entities\\PropertyImage.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Entities\\PropertyImage.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Entities\\PropertyImage.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Entities\\PropertyImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:13:06.975Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyTrace.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Entities\\PropertyTrace.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Entities\\PropertyTrace.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Entities\\PropertyTrace.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Entities\\PropertyTrace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:14:47.983Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Controllers\\PropertyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:19:16.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyImageController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Controllers\\PropertyImageController.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Controllers\\PropertyImageController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Controllers\\PropertyImageController.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Controllers\\PropertyImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:20:08.161Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyTraceController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Controllers\\PropertyTraceController.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Controllers\\PropertyTraceController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Controllers\\PropertyTraceController.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Controllers\\PropertyTraceController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:20:33.831Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Entities\\Property.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Entities\\Property.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Entities\\Property.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:12:12.468Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\appsettings.json",
+              "RelativeToolTip": "WebApiMongoDB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T03:08:59.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Controllers\\OwnerController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowHAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T03:35:32.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Entities\\Owner.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Entities\\Owner.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Entities\\Owner.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Entities\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T03:32:14.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OwnerService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Data\\OwnerService.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Data\\OwnerService.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Data\\OwnerService.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Data\\OwnerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:04:47.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Program.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T03:36:39.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyTraceService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Data\\PropertyTraceService.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Data\\PropertyTraceService.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Data\\PropertyTraceService.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Data\\PropertyTraceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:07:07.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropertyImageService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Data\\PropertyImageService.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Data\\PropertyImageService.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Data\\PropertyImageService.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Data\\PropertyImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:05:57.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiMongoDB\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T05:39:06.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Data\\PropertyService.cs",
+              "RelativeDocumentMoniker": "WebApiMongoDB\\Data\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\html\\API_3\\WebApiMongoDB\\WebApiMongoDB\\Data\\PropertyService.cs",
+              "RelativeToolTip": "WebApiMongoDB\\Data\\PropertyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:05:18.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
